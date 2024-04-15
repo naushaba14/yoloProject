@@ -6,33 +6,21 @@
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>800</width>
-		<height>450</height>
+		<width>1280</width>
+		<height>1920</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>dog</name>
+		<name>cat</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>130</xmin>
-			<ymin>127</ymin>
-			<xmax>351</xmax>
-			<ymax>441</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>person</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>359</xmin>
-			<ymin>35</ymin>
-			<xmax>688</xmax>
-			<ymax>438</ymax>
+			<xmin>8</xmin>
+			<ymin>365</ymin>
+			<xmax>1078</xmax>
+			<ymax>1359</ymax>
 		</bndbox>
 	</object>
 </annotation>

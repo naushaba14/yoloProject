@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>60.jpg</filename>
+	<path>C:\Users\Z8NUA\Desktop\yolo\1_datapreparation\data_images\60.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>1707</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>273</xmin>
+			<ymin>973</ymin>
+			<xmax>1016</xmax>
+			<ymax>1471</ymax>
+		</bndbox>
+	</object>
+</annotation>

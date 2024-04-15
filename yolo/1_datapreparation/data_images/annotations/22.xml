@@ -6,45 +6,21 @@
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>799</width>
-		<height>613</height>
+		<width>1280</width>
+		<height>852</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>boat</name>
+		<name>dog</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>155</xmin>
-			<ymin>64</ymin>
-			<xmax>389</xmax>
-			<ymax>364</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>boat</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>384</xmin>
-			<ymin>143</ymin>
-			<xmax>611</xmax>
-			<ymax>351</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>boat</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>516</xmin>
-			<ymin>161</ymin>
-			<xmax>711</xmax>
-			<ymax>266</ymax>
+			<xmin>20</xmin>
+			<ymin>76</ymin>
+			<xmax>1011</xmax>
+			<ymax>807</ymax>
 		</bndbox>
 	</object>
 </annotation>

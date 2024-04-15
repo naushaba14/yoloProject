@@ -6,33 +6,21 @@
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>800</width>
-		<height>600</height>
+		<width>1280</width>
+		<height>767</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>train</name>
+		<name>person</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>227</xmin>
-			<ymin>91</ymin>
-			<xmax>627</xmax>
-			<ymax>443</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>train</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>644</xmin>
-			<ymin>251</ymin>
-			<xmax>800</xmax>
-			<ymax>427</ymax>
+			<xmin>358</xmin>
+			<ymin>113</ymin>
+			<xmax>904</xmax>
+			<ymax>726</ymax>
 		</bndbox>
 	</object>
 </annotation>

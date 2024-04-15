@@ -6,21 +6,21 @@
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>800</width>
-		<height>600</height>
+		<width>1280</width>
+		<height>1931</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>motorbike</name>
+		<name>person</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>136</xmin>
-			<ymin>266</ymin>
-			<xmax>740</xmax>
-			<ymax>596</ymax>
+			<xmin>431</xmin>
+			<ymin>1548</ymin>
+			<xmax>468</xmax>
+			<ymax>1609</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>269</xmin>
-			<ymin>132</ymin>
-			<xmax>379</xmax>
-			<ymax>391</ymax>
+			<xmin>614</xmin>
+			<ymin>1492</ymin>
+			<xmax>676</xmax>
+			<ymax>1588</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,34 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>378</xmin>
-			<ymin>149</ymin>
-			<xmax>555</xmax>
-			<ymax>400</ymax>
+			<xmin>833</xmin>
+			<ymin>1515</ymin>
+			<xmax>876</xmax>
+			<ymax>1623</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>737</xmin>
+			<ymin>1553</ymin>
+			<xmax>776</xmax>
+			<ymax>1623</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>160</xmin>
+			<ymin>1630</ymin>
+			<xmax>199</xmax>
+			<ymax>1732</ymax>
 		</bndbox>
 	</object>
 </annotation>
